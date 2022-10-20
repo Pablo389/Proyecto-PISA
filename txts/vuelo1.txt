@@ -1,0 +1,5 @@
+La Mir daba vueltas alrededor de la Tierra a una altura aproximada de 400 kilómetros.
+El diámetro de la Tierra mide aproximadamente 12.700 km y su circunferencia es de
+alrededor de 40.000 km (π × 12.700).
+Calcula aproximadamente la distancia total recorrida por la Mir durante sus 86.500
+vueltas mientras estuvo en órbita. Redondea el resultado a las decenas de millón.

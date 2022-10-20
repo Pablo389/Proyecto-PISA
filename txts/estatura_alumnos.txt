@@ -1,0 +1,2 @@
+Un día, en clase de matemáticas, se mide la estatura de todos los alumnos. La estatura media de los chicos es de 160 cm y la estatura media de las chicas es de 150 cm. Elena ha sido la más alta (mide 180 cm). Pedro ha sido el más bajo (mide 130 cm).
+Dos estudiantes faltaron a clase ese día, pero fueron a clase al día siguiente. Se midieron sus estaturas y se volvieron a calcular las medias. Sorprendentemente, la estatura media de las chicas y la estatura media de los chicos no cambió.

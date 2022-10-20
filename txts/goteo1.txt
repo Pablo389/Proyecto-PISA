@@ -1,0 +1,7 @@
+Las enfermeras tienen que calcular el volumen de la infusión intravenosa, v, a
+partir de la frecuencia de goteo, G.
+Una infusión intravenosa, con una frecuencia de goteo de 50 gotas por minuto, ha de
+administrarse a un paciente durante 3 horas. El factor de goteo de esta infusión
+intravenosa es de 25 gotas por mililitro.
+¿Cuál es el volumen de la infusión intravenosa expresado en ml?
+Volumen de la infusión intravenosa (ml):

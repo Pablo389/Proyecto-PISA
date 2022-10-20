@@ -1,0 +1,1 @@
+Una puerta giratoria consta de tres hojas que giran dentro de un espacio circular. El diámetro interior de dicho espacio es de 2 metros (200 centímetros). Las tres hojas de la puerta dividen el espacio en tres sectores iguales.

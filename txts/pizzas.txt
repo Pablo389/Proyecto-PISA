@@ -1,0 +1,1 @@
+Una pizzería sirve dos pizzas redondas del mismo grosor y de diferente tamaño. La más pequeña tiene un diámetro de 30 cm y cuesta 30 euros. La mayor tiene un diámetro de 40 cm y cuesta 40 euros.

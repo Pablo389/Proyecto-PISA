@@ -1,0 +1,1 @@
+Calcula cuántos ladrillos necesita Nicolás para pavimentar todo el patio.

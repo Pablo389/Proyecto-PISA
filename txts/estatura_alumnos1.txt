@@ -1,0 +1,3 @@
+¿Pueden deducirse de esta información las conclusiones siguientes?
+Para cada conclusión, escribe Si o No si son deducibles de la información.
+Los dos estudiantes son chicas. Sí / No

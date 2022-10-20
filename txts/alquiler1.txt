@@ -1,0 +1,4 @@
+The code in the previous examples works fine with ASCII text files. 
+However, if you’re dealing with other languages such as Japanese, Chinese, and Korean, 
+the text file is not a simple ASCII text file. 
+And it’s likely a UTF-8 file that uses more than just the standard ASCII text characters.

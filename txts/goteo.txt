@@ -1,0 +1,8 @@
+Las infusiones intravenosas (goteo) se utilizan para administrar líquidos y fármacos a
+los pacientes.
+Las enfermeras tienen que calcular la frecuencia de goteo G de las infusiones
+intravenosas en gotas por minuto.
+Utilizan la fórmula G = (gv)/(60n) donde
+g es el factor de goteo expresado en gotas por mililitro (ml)
+v es el volumen de la infusión intravenosa en ml
+n es el número de horas que ha de durar la infusión intravenosa.

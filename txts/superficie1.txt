@@ -1,0 +1,3 @@
+Hay tres pisos en el edificio. El mayor de ellos, el piso 1, tiene una superficie total de 95 m2. Los pisos 2 y 3 tienen superficies de 85 m2
+y 70 m2, respectivamente. El precio de venta del edificio es de 300.000 zeds.
+¿Cuánto deberá pagar el propietario del piso 2?

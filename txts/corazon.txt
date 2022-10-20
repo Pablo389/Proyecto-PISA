@@ -1,0 +1,4 @@
+Por razones de salud la gente debería limitar sus esfuerzos, por ejemplo al hacer deporte, para no superar una determinada frecuencia cardiaca. Durante años la relación entre la máxima frecuencia cardiaca recomendada para una persona y su edad se describía mediante la fórmula siguiente:
+Máxima frecuencia cardiaca recomendada = 220 – edad
+Investigaciones recientes han demostrado que esta fórmula debería modificarse ligeramente. La nueva fórmula es la siguiente:
+Máxima frecuencia cardiaca recomendada = 208 – (0,7 x edad)

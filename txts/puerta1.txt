@@ -1,0 +1,2 @@
+La puerta da 4 vueltas completas en un minuto. Hay espacio para dos personas en cada uno de los tres sectores.
+¿Cuál es el número máximo de personas que pueden entrar en el edificio por la puerta en 30 minutos? (Escribe solo la letra de la opción que veas correcta).

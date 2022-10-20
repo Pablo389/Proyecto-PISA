@@ -1,0 +1,5 @@
+Los habitantes de un edificio de pisos deciden comprar el edificio. Pondrán
+el dinero entre todos de modo que cada uno pague una cantidad proporcional al tamaño de su piso.
+Por ejemplo, una persona que viva en un piso que mida la quinta parte de
+la superficietotal de todos los pisos, deberá pagar la quinta parte del
+precio total del edificio.
